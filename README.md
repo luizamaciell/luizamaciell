@@ -1,4 +1,4 @@
-Oie! Me chamo Luiza Maciel!🤩
+Oioi! Me chamo Luiza Maciel!🤩
 
 📒👩‍💻 - Curso Integral de Informática | INSTITUTO FEDERAL SUL-RIO-GRANDENSE - IFSUL 
 
