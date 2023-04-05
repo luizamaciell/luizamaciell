@@ -20,6 +20,5 @@ Here are some ideas to get you started:
         <img align="center" atl="Luiza-php" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
         <img align="center" atl="Luiza-php" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
         <img align="center" atl="Luiza-php" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
-        <img align="center" atl="Luiza-php" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
- 
+        <img align="center" atl="Luiza-php" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
 </div>
