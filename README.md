@@ -16,4 +16,3 @@ Oioi! Me chamo Luiza Maciel!🤩
  <a href = "mailto:macielluiza145@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/luizamaciell/luizamaciell/blob/output/github-contribution-grid-snake.svg)
